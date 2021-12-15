@@ -1,4 +1,4 @@
-export 'customSliverAppBar.dart';
-export 'videoCard.dart';
-export 'videoScreen.dart';
-export 'videoInfo.dart';
+export 'custom_sliver_appbar.dart';
+export 'video_card.dart';
+export 'video_screen.dart';
+export 'video_info.dart';

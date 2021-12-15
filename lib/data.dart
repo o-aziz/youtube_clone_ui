@@ -13,7 +13,7 @@ class User {
 const User currentUser = User(
   username: 'Oussama Aziz',
   profileImageUrl:
-      'https://yt3.ggpht.com/ytc/AAUvwniE2k5PgFu9yr4sBVEs9jdpdILdMc7ruiPw59DpS0k=s88-c-k-c0x00ffffff-no-rj',
+      "https://previews.123rf.com/images/panyamail/panyamail1809/panyamail180900343/109879063-ic%C3%B4ne-d-avatar-utilisateur-signe-symbole-de-profil.jpg?fj=1",
   subscribers: '100K',
 );
 

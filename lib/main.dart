@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:youtube_clone_ui/screens/navScreen.dart';
+import 'package:youtube_clone_ui/screens/nav_screen.dart';
 
 void main() {
   runApp(ProviderScope(child: MyApp()));

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:miniplayer/miniplayer.dart';
 import 'package:youtube_clone_ui/data.dart';
-import 'package:youtube_clone_ui/screens/homeScreen.dart';
+import 'package:youtube_clone_ui/screens/home_screen.dart';
 import 'package:youtube_clone_ui/widgets/widgets.dart';
 
 final selectedVideoProvider = StateProvider<Video?>((ref) => null);
